@@ -1,40 +1,5 @@
-![GitHub contributors](https://img.shields.io/github/contributors/adarsh-goel/filestreambot-pro?style=flat&color=green)
-![GitHub repo size](https://img.shields.io/github/repo-size/adarsh-goel/filestreambot-pro?color=green)
-![GitHub](https://img.shields.io/github/license/adarsh-goel/filestreambot-pro?color=green)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/shallow090/shall)
 
-
-<h1 align="center"></h1>
-<p align="center"> 
-  <img src="https://socialify.git.ci/adarsh-goel/filestreambot-pro/image?description=1&descriptionEditable=A%20very%20fast%20file%20streaming%20bot%20used%20for%20streaming%20and%20downloading%20movies&font=Source%20Code%20Pro&forks=1&issues=1&language=1&logo=https%3A%2F%2Fuser-images.githubusercontent.com%2F88939380%2F137127129-a86fc939-2931-4c66-b6f6-b57711a9eab7.png&owner=1&pattern=Circuit%20Board&pulls=1&stargazers=1&theme=Dark" alt="Cover Image" width="650">
-  </a>
-  
- <p align="center">
-    A Telegram bot to turn all media and documents files to instant direct download and stream link .
-    <br />
-   </strong></a>
-    <br />
-    <a href="https://github.com/adarsh-goel/pro/issues">Report a Bug</a>
-    |
-    <a href="https://github.com/adarsh-goel/filestreambot-pro/issues">Request Feature</a>
-  </p>
-
-
-<hr>
-
-#### Please give a ⭐ to this repository to appreciate my efforts and follow me so you that you get to know whenever I release a new Project!
-
-#### If you like my work and would like to hire/sponsor me [click here](https://t.me/+KvjFjOWicuZmOTQx).
-
-<hr>
-
-## 🍁 About This Bot :
-
-![streamingfilestreambot-professional-live_1](https://user-images.githubusercontent.com/88939380/137127129-a86fc939-2931-4c66-b6f6-b57711a9eab7.png)
-
-</p>
-<p align='center'>
-    This bot will give you streamable download links for Telegram files without the need of waiting till the download completes.
-</p>
 
 
 <br>
@@ -152,22 +117,4 @@ DATABASE_URL=mongodb_uri
 
 `FQDN` :  A Fully Qualified Domain Name if present. Defaults to `WEB_SERVER_BIND_ADDRESS` </details>
 
-<details>
-  <summary><b>How to Use :</b></summary>
 
-:warning: **Before using the  bot, don't forget to add the bot to the `BIN_CHANNEL` as an Admin**
- 
-`/start` : To check if the bot is alive or not.
-
-To get an instant stream link, just forward any media to the bot and boom, its fast af.
-  
-![image](https://user-images.githubusercontent.com/88939380/145798095-3cdad108-96b0-4391-a540-cad144d6b864.png)
-
-
-### Channel Support
-Bot also Supported with Channels. Just add bot Channel as Admin. If any new file comes in Channel it will edit it with **Get Download Link** Button. </details>
-
-### Credits : 
-
-- [Me](https://github.com/adarsh-goel)
-- Everyone In This Journey !
